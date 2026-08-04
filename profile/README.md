@@ -21,6 +21,8 @@ another and the thread comes with it — same context, nothing to copy-paste.
 AGPL-3.0 · macOS (Apple silicon & Intel), signed and notarized · Windows builds in CI,
 unpublished until we can sign it.
 
+<img src="https://raw.githubusercontent.com/MyAgentHubs/.github/main/profile/agentloom-team.webp" alt="Team mode — a lead agent dispatching members in parallel across providers" width="900">
+
 [Repository](https://github.com/MyAgentHubs/agentloom) ·
 [Download](https://www.myagenthubs.com/agentloom#download) ·
 [Benchmarks](https://github.com/MyAgentHubs/agentloom/blob/main/docs/benchmarks.md)
@@ -33,6 +35,8 @@ comments, Markdown export, and an MCP endpoint your agents can read.
 Prototype files are fetched by repo, ref and path instead of cloning repositories and
 running arbitrary code.
 
+<img src="https://raw.githubusercontent.com/MyAgentHubs/.github/main/profile/protolens-dashboard.webp" alt="ProtoLens review workspace — prototype files, review links and anchored comments" width="900">
+
 [Repository](https://github.com/MyAgentHubs/protolens) ·
 [protolens.myagenthubs.com](https://protolens.myagenthubs.com)
 
@@ -41,6 +45,8 @@ running arbitrary code.
 A tag-first quick-capture app. Plain Markdown, no folders, and a durable copy in the
 GitHub repository or S3-compatible bucket you already own. We run no database and never
 store your note bodies.
+
+<img src="https://raw.githubusercontent.com/MyAgentHubs/.github/main/profile/loomnote-app.webp" alt="Loomnote — tag tree, reverse-chronological card stream and always-on capture box" width="900">
 
 [loomnote.myagenthubs.com](https://loomnote.myagenthubs.com)
 
