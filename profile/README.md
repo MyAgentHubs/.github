@@ -22,8 +22,8 @@ work from your phone when you step away.
 - **Multi-model, not locked to a vendor.**
 - **Yours, truly.**
 
-AGPL-3.0 · macOS (Apple silicon & Intel), signed and notarized · Windows builds in CI,
-unpublished until we can sign it.
+AGPL-3.0 · macOS (Apple silicon & Intel), signed and notarized · Windows x64 as an unsigned
+preview (SmartScreen will warn until we have a code-signing certificate).
 
 <img src="https://raw.githubusercontent.com/MyAgentHubs/.github/main/profile/agentloom-team.webp" alt="Team mode — a lead agent dispatching members in parallel across providers" width="900">
 
