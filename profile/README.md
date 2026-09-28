@@ -1,9 +1,9 @@
 # MyAgentHubs
 
-**Many models. One workbench. Your machine.**
+**Embrace AI. Make work and life better.**
 
-Tools for AI-assisted work that keep your data where you put it — your machine, your
-repositories, your own accounts.
+Building useful products around practical needs at work and in everyday life, and sharing the
+journey from idea to reality.
 
 [**www.myagenthubs.com**](https://www.myagenthubs.com)
 
@@ -11,12 +11,16 @@ repositories, your own accounts.
 
 ## AgentLoom
 
-Run Claude, Codex, DeepSeek, GLM and more — side by side, or as a team. The open-source
-desktop workbench that turns many LLMs into one workforce you control.
+**Set the goal. A local agent team carries it to done.**
 
-Crown a lead that plans and give it a bench of cheaper models that execute, so you pay
-top-tier prices only for the thinking. Switch a running session from one provider to
-another and the thread comes with it — same context, nothing to copy-paste.
+Coordinate models, continue sessions and inspect changes in one desktop workspace. Follow the
+work from your phone when you step away.
+
+- **One agent is a bottleneck. Run a team.**
+- **See every move. Undo any of them.**
+- **Keeps going until it's actually done.**
+- **Multi-model, not locked to a vendor.**
+- **Yours, truly.**
 
 AGPL-3.0 · macOS (Apple silicon & Intel), signed and notarized · Windows builds in CI,
 unpublished until we can sign it.
